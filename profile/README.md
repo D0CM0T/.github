@@ -15,10 +15,12 @@ It is the sad, but required Ending for Me on all of this.
 Также Я не должен контактировать с ними на их «территориях» (чаты и прочее), не должен упоминать ДОСМОТ, не должен говорить о группе.
 
 Это грустный, но необходимый Мне конец всему этому.
- 
- 
- 
- 
+
+=
+=
+=
+=
+
 ## About
 
 **The GitHub Organization and its Repositories are not affilated with Real Life D0CM0T;
